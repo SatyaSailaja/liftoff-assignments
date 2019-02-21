@@ -25,8 +25,9 @@ Users of the System:
 
 ### Technologies
 - Java
-- Spring Boot,Spring MVC
--ThymeLeaf templates
+- Spring Boot
+- Spring MVC
+- ThymeLeaf templates
 - JPA
 - Hibernate
 - Bootstrap
